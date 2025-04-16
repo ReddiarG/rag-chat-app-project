@@ -96,3 +96,6 @@ Desktop.ini
 # CERTIFICATES / KEYS
 # =========================
 *.pem
+
+backend/app/chroma_input/
+backend/app/chroma/
